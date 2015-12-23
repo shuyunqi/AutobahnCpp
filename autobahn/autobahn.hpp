@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
-//  author:shuwi
+//  author:shuqi
 //  Copyright (C) 2014 Tavendo GmbH
 //
 //  Licensed under the Apache License, Version 2.0 (the "License");
